@@ -2,12 +2,6 @@
 .env
 .DS_Store
 
-2 Data Classification/ipynb_checkpoints/
-2 Data Classification/OpenAI Classification/1 Classification Performance Evaluation/ipynb_checkpoints/
-2 Data Classification/OpenAI Classification/1 Classification Performance Evaluation/ipynb_checkpoints/
-2 Data Classification/OpenAI Classification/2 OpenAI Classifier/ipynb_checkpoints/
-
-
 2 Data Classification/Traditional ML Classification/bc_unlabeled_data_with_predictions.csv
 2 Data Classification/Traditional ML Classification/pt_unlabeled_data_with_predictions.csv
 2 Data Classification/Traditional ML Classification/combined_bc_tagged.csv
