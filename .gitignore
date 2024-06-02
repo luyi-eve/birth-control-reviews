@@ -1,6 +1,7 @@
 
 .env
 .DS_Store
+.ipynb_checkpoints/
 
 1 Data Collection/0 Preliminary Reviews Number Check.ipynb
 1 Data Collection/apps13_reviews_df.csv
@@ -18,7 +19,6 @@
 1 Data Collection/group2_samples (postRoe) - group2_collection2_pt_samples.csv
 1 Data Collection/group2_samples.csv
 1 Data Collection/group2_unlabeled_data.csv
-
 
 2 Data Classification/Traditional ML Classification/bc_unlabeled_data_with_predictions.csv
 2 Data Classification/Traditional ML Classification/pt_unlabeled_data_with_predictions.csv
